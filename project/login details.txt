@@ -1,0 +1,46 @@
+
+
+Portal	Email	Password
+Employee (Sarah Jenkins)	sarah@echoaction.ai	password
+Employee (John Doe)	      employee@echoaction.ai		
+ 
+			   |----       	priya@echoaction.ai             password123
+		staff   |			marcus@echoaction.ai         password123
+			   |-----		aisha@echoaction.ai             password123
+Admin (Super Admin)	godaverthinagamanojbalaji@gmail.com 	Manojbalaji@2003
+
+student                                  student@echoaction.ai         password
+
+
+
+#########################################################################################################################################################################################################################################################
+​​
+#########################################################################################################################################################################################################################################################
+
+
+1. when i upload the file from option in dashboard it is showing and giving proper analysis 
+ii) but when i upload the meeting file form upload option at header it not displaying analysis progress and after some time it is giving meeting analysis not in proper way 
+iii) connect upload option in header to upload option in dashboard 
+
+
+
+
+
+
+
+
+
+
+
+
+grock key---
+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
+
+hugging face--
+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
+
+
+
+
+
+Get-ChildItem -Path C:\Users\godav -Directory | ForEach-Object { $size = (Get-ChildItem $_.FullName -Recurse -File -ErrorAction SilentlyContinue | Measure-Object -Property Length -Sum).Sum / 1MB; [PSCustomObject]@{ "Subfolder" = $_.Name; "Size (MB)" = [math]::Round($size, 2) } } | Sort-Object "Size (MB)" -Descending

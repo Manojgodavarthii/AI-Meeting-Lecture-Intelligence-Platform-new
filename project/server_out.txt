@@ -1,0 +1,13 @@
+Found ffmpeg in Winget folder: C:\Users\godav\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg.Essentials_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-8.1.1-essentials_build\bin
+Using device: cpu
+Loading Whisper base model...
+Whisper base model loaded successfully.
+[DB] Security events table initialized.
+[OK] Security events table initialized.
+[OK] Global edit history table initialized.
+[DB] Auth tables initialized.
+[DB] Populated user_id references.
+[OK] Auth tables initialized.
+[INFO] Starting server on http://127.0.0.1:5003
+ * Serving Flask app 'app'
+ * Debug mode: off
